@@ -1,0 +1,5 @@
+To be honest. The only projects in TOP worth putting in your portfolio is the shopping cart and the final project (clone). Those are typically the most straight forward and 
+the type of projects you will be working on on a real job setting. Shopping cart is an E-commerce sort of project, and a clone is… well a clone of a common app. Of course you 
+will have to add features to it to make it more presentable. That part is on you and will require your own research. All the other projects (TicTacToe, Battleship, 
+Etch-a-sketch etc) are projects to help you learn syntax and understand concepts. Not worth putting in your portfolio. 99% of fresh SE all have a tictactoe or a todo list as 
+a portfolio project. Not unique nor beneficial to future employers
